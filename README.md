@@ -1,54 +1,138 @@
+<div align="center">
 
-Hi there, I'm Jesus Tortolero Hernandez 👋
+# Hi, I'm Jesus Tortolero Hernandez 👋
 
-Software Development Student | Web Developer | Lifelong Learner
-I'm a Software Development student at BYU-Idaho with a passion for building practical software solutions, web applications, and modern backend systems. I enjoy learning new technologies and using them to create meaningful experiences that solve real-world problems.
+### 🎓 Bachelor of Science in Software Development @ BYU-Idaho
+
+### 💻 Full-Stack Developer in Progress | MongoDB | Node.js | TypeScript
+
+Passionate about building software solutions that create value, improve experiences, and solve real-world problems.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus_Tortolero-0A66C2?style=for-the-badge&logo=linkedinite](https://www.linkedin.com/in/jesustortoleroh)
+
+[![GitHub](https://img.shields.io/badge/GitHub-jesustortoleroh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.toleroh)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 Bachelor of Science in Software Development at BYU-Idaho
+
+💻 Passionate about Web Development, Backend Development, Databases, and Software Architecture
+
+🌱 Currently learning:
+
+- MongoDB
+- Node.js
+- TypeScript
+- Express
+- Cloud Technologies
+- Software Architecture
+
+🔭 Working on academic, personal, and full-stack projects
+
+🌎 Fluent in English and Spanish
 
 📍 Venezuela
 
-🚀 About Me
-🎓 Bachelor of Science in Software Development at BYU-Idaho
-💻 Web Developer and Technology Enthusiast
-🌱 Currently learning MongoDB, TypeScript, Node.js, Express, and Cloud Technologies
-🔭 Building full-stack, academic, and personal projects
-🌎 Fluent in Spanish and English
-🤝 Passionate about continuous learning, service, and teamwork
-🛠️ Tech Stack
+---
 
-Languages
-![JavaScript](https://img.shieldsScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgept&logoColor=white ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=oColor=white ![Python](https://img.shields.io/badge/Python-3776AB?style=for-logo=python&logoColor=white
+## 🛠️ Tech Stack
 
-Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logologoColor=white ![Express](https://img.shields.io/badge/Express-000000?style=for-the=express&logoColor=white
+### Programming Languages
 
-Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=oColor=white ![SQL://img.shields.io/badge/SQL-336791?style=for-the-badge
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=dge&logo=javascript&logoColor=black
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-logo=typescript&logoColor=white
+  <img src="https://img.shields.io/badge/PHP-777BB4?the-badge&logo=php&logoColor=white
+  <img src="https://img.shadge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+</p>
 
-Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logogoColor=white ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-=github&logoColor=white ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-codewhite
+### Backend Development
 
-📚 Currently Learning
-Advanced MongoDB
-REST API Development
-Software Architecture
-Cloud Computing
-TypeScript Best Practices
-Full-Stack Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&white
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"Databases
 
-🏆 Certifications
-SQL Intermediate
-Mobile Apps Development
-PHP Programming Fundamentals
-Introduction to Web Development
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badgeodb&logoColor=white
+  <img src="https://img.shields.io/badge/SQL-336791?the-badge
+</p>
 
-🎯 Goals for 2026
-Build production-ready full-stack applications
-Strengthen backend development skills
-Master MongoDB and cloud technologies
-Contribute to open-source projects
-Complete my Software Development degree
+### Tools
 
-🤝 Connect With Me
-GitHub: https://github.com/jesustortoleroh
-LinkedIn: https://www.linkedin.com/in/jesustortoleroh
-"Always learning, always building, always improving.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoolor=white
+  <img src="https://img.shields.io/badge/GitHub-181717?styleadge&logo=github&logoColor=white
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-=visual-studio-code&logoColor=white
+</p>
+
+---
+
+## 📚 Current Learning Journey
+
+- Advanced MongoDB
+- REST API Design
+- TypeScript Best Practices
+- Cloud Computing
+- Full-Stack Development
+- Software Architecture
+
+---
+
+## 🏆 Certifications & Training
+
+- SQL Intermediate
+- Mobile Apps Development
+- PHP Programming Fundamentals
+- Introduction to Web Development (HTML & CSS)
+- AWS Node Runners for BNB Chain
+
+---
+
+## 🎯 Current Goals
+
+✅ Complete my Bachelor of Science in Software Development
+
+✅ Build production-ready full-stack applications
+
+✅ Strengthen backend and database expertise
+
+✅ Master MongoDB ecosystem
+
+✅ Contribute to open-source projects
+
+✅ Continue growing as a software engineer
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=jesustortoleroh&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=jesustortoleroh&layout=compact&theme=tokyonight
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+📧 Always open to learning opportunities, collaboration, and software development projects.
+
+- LinkedIn: https://www.linkedin.com/in/jesustortoleroh
+- GitHub: https://github.com/jesustortoleroh
+
+---
+
+<div align="center">
+
+### "Always learning, always building, always improving."
+
+</div>
